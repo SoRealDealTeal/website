@@ -20,7 +20,7 @@ exports.handler = async function(event, context) {
       {
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer YOUR_OPENAI_API_KEY`
+          'Authorization': `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`
         }
       }
     );
